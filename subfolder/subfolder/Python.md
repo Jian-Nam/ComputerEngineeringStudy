@@ -1,3 +1,0 @@
-#ComputerEngineering #Language
-
-[[anaconda]]

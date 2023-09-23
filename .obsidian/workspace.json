@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f20fc4af718b4de",
+            "id": "41cb0967f751e87f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subfolder/Language.md",
+                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subfolder/Language.md",
+                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subfolder/Language.md",
+                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subfolder/Language.md"
+                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md"
               }
             }
           }
@@ -145,41 +145,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f20fc4af718b4de",
+  "active": "41cb0967f751e87f",
   "lastOpenFiles": [
-    "subfolder/CS.md",
-    "subfolder/Language.md",
-    "subfolder/subfolder/Algorithm.md",
-    "subfolder/subfolder/Software Engineering.md",
-    "subfolder/subfolder/OS.md",
-    "subfolder/subfolder/Linked List.md",
-    "subfolder/subfolder/Data structure.md",
-    "subfolder/subfolder/Big O.md",
-    "Computer Engineering.md",
-    "subfolder/subfolder",
-    "Untitled",
-    "subfolder/subfolder/Design Pattern.md",
-    "subfolder",
-    "b",
-    "subfolder/subfolder/anaconda.md",
-    "Mother",
-    "subfolder/subfolder/Python.md",
-    "subfolder/subfolder/JavaScript.md",
-    "subfolder/subfolder/Garbage Collecting.md",
-    "subfolder/subfolder/Database.md",
-    "subfolder/subfolder/Elastic Search.md",
-    "subfolder/subfolder/ORM.md",
-    "subfolder/subfolder/RDBMS.md",
-    "subfolder/subfolder/SQL.md",
-    "subfolder/subfolder/OOP.md",
-    "subfolder/subfolder/Thread.md",
-    "subfolder/subfolder/Process.md",
-    "subfolder/subfolder/Network.md",
-    "subfolder/subfolder/UDP.md",
-    "subfolder/subfolder/TCP.md",
-    "subfolder/subfolder/Time Complexity.md",
-    "Untitled.canvas",
-    "Language",
-    "Untitled 1"
+    "Computer Engineering/CS/AI/Segmentation/Segmentation.md",
+    "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
+    "Computer Engineering/CS/AI/Classification/Resnet50.md",
+    "Computer Engineering/CS/AI/Classification/Classification.md",
+    "Computer Engineering/CS/AI/Segmentation",
+    "Computer Engineering/CS/AI/AI.md",
+    "Computer Engineering/Project/Decor Detector/Decor Detector.md",
+    "Computer Engineering/CS/AI/Classification",
+    "Computer Engineering/Project/MarketPOS/Market POS.md",
+    "Computer Engineering/Project/TRANS HYPE/TRANS HYPE.md",
+    "Computer Engineering/CS/AI",
+    "Computer Engineering/Language/JAVA/Spring/Spring.md",
+    "Computer Engineering/Project/Decor Detector",
+    "Computer Engineering/Project/TRANS HYPE",
+    "Computer Engineering/Project/MarketPOS",
+    "Computer Engineering/Project",
+    "Computer Engineering/Language/JavaScript/Node.js.md",
+    "Computer Engineering/Language/JavaScript/React.md",
+    "Computer Engineering/Language/JavaScript/Three.js.md",
+    "Computer Engineering/CS/Algorithm/TimeComplexity/Time Complexity.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Data structure.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Graph.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Hash Tabel.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Heap.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Tree.md",
+    "Computer Engineering/CS/Algorithm/DataStructure/Array.md",
+    "Computer Engineering/Language/Python/anaconda.md",
+    "Computer Engineering/Language/JAVA/Spring/김영한 스프링 입문.md",
+    "Computer Engineering/Language/JAVA/Spring/jpa.md",
+    "Computer Engineering/CS/SoftwareEngineering/OOP/Encapsulation.md",
+    "Computer Engineering/CS/SoftwareEngineering/OOP/OOP.md",
+    "Computer Engineering/CS/SoftwareEngineering/OOP/Inheritance.md",
+    "Computer Engineering/CS/SoftwareEngineering/OOP/Abstraction.md",
+    "Computer Engineering/CS/SoftwareEngineering/OOP/Polymorphism",
+    "Computer Engineering/Language/JAVA/Spring/SpringBoot",
+    "Computer Engineering/Language/JAVA/Spring",
+    "Untitled.canvas"
   ]
 }
