@@ -1,0 +1,2 @@
+- 절차지향 프로그래밍 vs 객체지향 프로그래밍
+	- [[Procedual Programming vs OOP]]

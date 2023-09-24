@@ -1,0 +1,1 @@
+SubClass 가 SuperClass 의 prototype과 동일한 함수를 재정의 하는 것

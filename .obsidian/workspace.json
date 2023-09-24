@@ -11,12 +11,8 @@
             "id": "41cb0967f751e87f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,42 +139,43 @@
   },
   "active": "41cb0967f751e87f",
   "lastOpenFiles": [
-    "Computer Engineering/CS/AI/Segmentation/Segmentation.md",
-    "Computer Engineering/CS/AI/Segmentation/Segment Anything (SAM).md",
-    "Computer Engineering/CS/AI/Classification/Resnet50.md",
-    "Computer Engineering/CS/AI/Classification/Classification.md",
-    "Computer Engineering/CS/AI/Segmentation",
-    "Computer Engineering/CS/AI/AI.md",
-    "Computer Engineering/Project/Decor Detector/Decor Detector.md",
-    "Computer Engineering/CS/AI/Classification",
-    "Computer Engineering/Project/MarketPOS/Market POS.md",
-    "Computer Engineering/Project/TRANS HYPE/TRANS HYPE.md",
-    "Computer Engineering/CS/AI",
-    "Computer Engineering/Language/JAVA/Spring/Spring.md",
-    "Computer Engineering/Project/Decor Detector",
-    "Computer Engineering/Project/TRANS HYPE",
-    "Computer Engineering/Project/MarketPOS",
-    "Computer Engineering/Project",
-    "Computer Engineering/Language/JavaScript/Node.js.md",
-    "Computer Engineering/Language/JavaScript/React.md",
-    "Computer Engineering/Language/JavaScript/Three.js.md",
-    "Computer Engineering/CS/Algorithm/TimeComplexity/Time Complexity.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Data structure.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Graph.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Hash Tabel.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Heap.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Tree.md",
-    "Computer Engineering/CS/Algorithm/DataStructure/Array.md",
-    "Computer Engineering/Language/Python/anaconda.md",
-    "Computer Engineering/Language/JAVA/Spring/김영한 스프링 입문.md",
-    "Computer Engineering/Language/JAVA/Spring/jpa.md",
-    "Computer Engineering/CS/SoftwareEngineering/OOP/Encapsulation.md",
+    "Project/CS 기술면접 질문.md",
+    "Resources/CS/SoftwareEngineering/OOP/Procedual Programming vs OOP.md",
+    "Resources/CS/SoftwareEngineering/Software Engineering.md",
+    "Resources/CS/SoftwareEngineering/OOP/Object Oriented Programming.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Encapsulation.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Polymorphism.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Inheritance.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Abstraction.md",
+    "Resources/CS/SoftwareEngineering/OOP/Procedual Programming.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Component of Polymorphism/Dynamic binding.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Component of Polymorphism/Operation overiding.md",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Component of Polymorphism",
+    "Resources/CS/SoftwareEngineering/DesignPattern/Singleton.md",
+    "Resources/CS/SoftwareEngineering/DesignPattern/Design Pattern.md",
+    "Resources/CS/SoftwareEngineering/OOP/Untitled/Untitled",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP",
+    "Resources",
+    "Archive",
+    "Project",
+    "Resources/CS/SoftwareEngineering/OOP/Frature of OOP/Massege Passing.jpg",
+    "캡처.jpg",
     "Computer Engineering/CS/SoftwareEngineering/OOP/OOP.md",
-    "Computer Engineering/CS/SoftwareEngineering/OOP/Inheritance.md",
-    "Computer Engineering/CS/SoftwareEngineering/OOP/Abstraction.md",
-    "Computer Engineering/CS/SoftwareEngineering/OOP/Polymorphism",
-    "Computer Engineering/Language/JAVA/Spring/SpringBoot",
-    "Computer Engineering/Language/JAVA/Spring",
+    "Resources/CS/Algorithm/DataStructure/Data structure.md",
+    "Resources/CS/AI/Segmentation/Segment Anything (SAM).md",
+    "Resources/CS/AI/Segmentation/Segmentation.md",
+    "Resources/CS/AI/Classification/Resnet50.md",
+    "Resources/CS/AI/Classification/Classification.md",
+    "Resources/CS/AI/Segmentation",
+    "Resources/CS/AI/AI.md",
+    "Project/Decor Detector/Decor Detector.md",
+    "Resources/CS/AI/Classification",
+    "Project/MarketPOS/Market POS.md",
+    "Project/TRANS HYPE/TRANS HYPE.md",
+    "Resources/CS/AI",
+    "Resources/Programming Language/JAVA/Spring/Spring.md",
+    "Project/Decor Detector",
+    "Resources/Programming Language/JavaScript/Node.js.md",
     "Untitled.canvas"
   ]
 }
